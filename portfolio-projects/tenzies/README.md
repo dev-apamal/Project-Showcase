@@ -2,6 +2,9 @@
 
 This project is a digital implementation of the Tenzies game, built as a learning exercise to understand React's **useState** hook and state management.
 
+## 🌐 Live Demo  
+[Play the Tenzies Game](https://tenzies-ap.netlify.app/)
+
 ## 🚀 How It Works  
 - The app starts with a grid of dice showing random numbers.  
 - When the user clicks "Roll," the dice continue to update until all values match.  
