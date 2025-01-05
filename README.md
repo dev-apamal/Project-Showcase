@@ -6,7 +6,7 @@ Welcome to my GitHub repository, where I showcase my professional and personal p
 
 This repository includes:
 
-1. **Portfolio Projects** (https://github.com/dev-apamal/project-showcase/tree/b973db7a3ed21bc2c369f8cdddff82db2340297e/portfolio-projects)
+1. **Portfolio Projects** (project-showcase/portfolio-projects)
    - Professional work demonstrating my skills and expertise in real-world applications.
 
 ## Technologies and Tools
