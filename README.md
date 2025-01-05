@@ -6,9 +6,7 @@ Welcome to my GitHub repository, where I showcase my professional and personal p
 
 This repository includes:
 
-1. **Personal Projects**
-   - Projects that reflect my creativity and exploration of new ideas.
-2. **Portfolio Projects**
+1. **Portfolio Projects**
    - Professional work demonstrating my skills and expertise in real-world applications.
 
 ## Technologies and Tools
@@ -19,9 +17,6 @@ Here are some of the technologies and tools I work with:
 - Design Tools: Figma
 - Development Tools: Git, VS Code
 
-## Projects
-### Featured Projects
-- To be updated
 
 ## Contact
 
