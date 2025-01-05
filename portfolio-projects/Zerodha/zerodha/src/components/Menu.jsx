@@ -27,18 +27,6 @@ export default function Menu() {
       icon: "bi bi-briefcase",
     },
     {
-      id: "positions",
-      name: "Positions",
-      link: "#",
-      icon: "bi bi-file-earmark-ruled",
-    },
-    {
-      id: "bids",
-      name: "Bids",
-      link: "#",
-      icon: "bi bi-clock",
-    },
-    {
       id: "funds",
       name: "Funds",
       link: "#",
