@@ -22,7 +22,7 @@ Here are some of the technologies and tools I work with:
 
 Feel free to connect with me for collaboration or inquiries:
 
-- **Email**: work.apamal@outlook.com
+- **Email**: work.apamal@gmail.com
 - **LinkedIn**: www.linkedin.com/in/apamal
 
 ---
