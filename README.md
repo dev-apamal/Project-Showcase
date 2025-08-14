@@ -1,4 +1,4 @@
-# 👋 Amal A P
+# README
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=400&lines=UI%2FUX+Designer;React+Native+Developer;Product+Designer" alt="Typing SVG" />
